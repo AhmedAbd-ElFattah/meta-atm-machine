@@ -1,0 +1,7 @@
+#ifndef Keypad_CONFIG_h
+#define Keypad_CONFIG_h
+
+
+#define     TOTAL_NUMBER_OF_DEVICES  1
+
+#endif
